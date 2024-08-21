@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suresh C,
 - 👀 I’m interested in Web Development,
-- 🌱 I’m currently learning Spring Boot,
+- 🌱 I’m currently learning Express js,
 - 📫 How to reach me
 - Mail id : sureshs68167@gmil.com
 - content no: 9361852813
