@@ -1,10 +1,82 @@
-- 👋 Hi, I’m Suresh C,
-- 👀 I’m interested in Web Development,
-- 🌱 I’m currently learning Express js,
-- 📫 How to reach me
-- Mail id : sureshs68167@gmil.com
-- content no: 9361852813
-<!---
-sureshdev2003/sureshdev2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hello 👋, I'm Suresh </h1>
+
+
+### 🧑‍💻 About Me:
+
+- 💼 I’m pursuing: **M.Sc. Computer Science**
+- 🧠 I’m currently learning: **Technology/Framework**
+- 🤝 I’m looking to collaborate on: **Open Source / Freelance Projects**
+- 💬 Ask me about: **Tech topics / Tools / Frameworks**
+- 🎮 Gaming Skills: *I write better code than I play games (still working on the high score).*
+- 🎬 Movie & Series Buff: *I binge-watch movies and web series like it’s an Olympic sport.*
+- 💡 Daily Challenge: *I solve at least one LeetCode problem every day to keep my brain sharp.*
+
+
+---
+
+### 🛠️ Technologies and Tools I Use:
+
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <!-- Add more badges as needed -->
+</p>
+
+---
+
+### 🔗 Let's Get Connected:
+
+<p>
+  <a href="https://sureshdev2003.github.io/portfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<!--   <a href="https://www.linkedin.com/in/ramkumar-baskar-370aa022b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ram_marx_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
+
+</p>
+
+---
+
+### ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+---
+
+### 🛠️ Language Stats
+
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkumar6103&layout=compact&theme=dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramkumar6103&theme=dark" />
+
+---
+
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sureshdev2003)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
+---
+
+
+### 📊 My GitHub Data:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sureshdev2003&show_icons=true&theme=dark" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sureshdev2003&theme=dark"  alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshdev2003&theme=dark" />
+</p>
+
