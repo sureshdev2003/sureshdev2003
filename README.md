@@ -3,7 +3,7 @@
 
 ### 🧑‍💻 About Me:
 
-- 💼 I’m pursuing: **M.Sc. Computer Science**
+- 💼 I’m completed: **M.Sc. Computer Science**
 - 🧠 I’m currently learning: **Technology/Framework**
 - 🤝 I’m looking to collaborate on: **Open Source / Freelance Projects**
 - 💬 Ask me about: **Tech topics / Tools / Frameworks**
